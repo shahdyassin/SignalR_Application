@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gFsaGhGi13tongBl/u/yN7RbneUwrIB2Uf/UIvkaYs4=",
+  "Hash": "cWkeUoDUVtLUNxnaAfys9Mzd3iNT0LuBZVWk9HiATUU=",
   "Source": "SignalRApp",
   "BasePath": "_content/SignalRApp",
   "Mode": "Default",
@@ -1970,6 +1970,27 @@
       "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\3r0sa0sktu-27iasdujdi.gz",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/basicChat#[.{fingerprint=27iasdujdi}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\basicChat.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vgpq6gk90d",
+      "Integrity": "b4nos0858y42Us5LYekr2oCvmn5YGY0qICmxFapka1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\basicChat.js"
+    },
+    {
       "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\3tzsqhslk9-ub07r2b239.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -2220,27 +2241,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Shahd\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\5azpgvxpnq-evs2j6nnb5.gz",
-      "SourceId": "SignalRApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/SignalRApp",
-      "RelativePath": "js/Chat#[.{fingerprint=evs2j6nnb5}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\Chat.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "c6v44l1e5o",
-      "Integrity": "LAF7NKUqYejTEWkAol6X5HeOFfHit3Q0AMqns+RCkk8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\Chat.js"
     },
     {
       "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\5j184eo4s8-8ac68bz3bp.gz",
@@ -3734,12 +3734,12 @@
       "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js.map"
     },
     {
-      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-3jyucjvbhs.gz",
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-veiggevbwz.gz",
       "SourceId": "SignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SignalRApp",
-      "RelativePath": "js/usersCount#[.{fingerprint=3jyucjvbhs}]?.js.gz",
+      "RelativePath": "js/usersCount#[.{fingerprint=veiggevbwz}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3748,8 +3748,8 @@
       "RelatedAsset": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\usersCount.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ktsn90bcdy",
-      "Integrity": "WLVif1yxl5fvF6dLtnkDinUm/jlz1dHrQT8ke3bXPLk=",
+      "Fingerprint": "4wd1pdif5l",
+      "Integrity": "bBbW3FLrq53zZVH723tXjOMzgbNQutSoLumd4tyfnjc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\usersCount.js"
@@ -3858,6 +3858,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js"
+    },
+    {
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\grm4s3zwnb-j3onhw31w9.gz",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/chat#[.{fingerprint=j3onhw31w9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\chat.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "apb6gbj0k7",
+      "Integrity": "vsxRbA71XRF75b5KXVb6hXg8ulNJFq/LBU9iKaRC+PQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\chat.js"
     },
     {
       "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\gstcq0qzyn-erw9l3u2r3.gz",
@@ -4257,6 +4278,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\iuun5pvb8p-jrdbs511yw.gz",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/advanceChatHelper#[.{fingerprint=jrdbs511yw}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChatHelper.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "56ac734zut",
+      "Integrity": "g+6i3wzY7dbDSbccSds6FwHwPOu2dNWKEOIklgm1Smw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChatHelper.js"
     },
     {
       "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\ivy2s9gwh5-iovd86k7lj.gz",
@@ -5517,6 +5559,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js"
+    },
+    {
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\rgexisj8cw-2gqz3lnjqa.gz",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/advanceChat#[.{fingerprint=2gqz3lnjqa}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChat.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6mulxqknok",
+      "Integrity": "wggxsmKOZoy5LsHWowCp4DUmNP2iIpEPvtgJvPwWojw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChat.js"
     },
     {
       "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\rh65p086id-c2jlpeoesf.gz",
@@ -7199,12 +7262,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\Chat.js",
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChat.js",
       "SourceId": "SignalRApp",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\",
       "BasePath": "_content/SignalRApp",
-      "RelativePath": "js/Chat#[.{fingerprint}]?.js",
+      "RelativePath": "js/advanceChat#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7213,11 +7276,74 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "evs2j6nnb5",
-      "Integrity": "VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94=",
+      "Fingerprint": "2gqz3lnjqa",
+      "Integrity": "ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Chat.js"
+      "OriginalItemSpec": "wwwroot\\js\\advanceChat.js"
+    },
+    {
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChatHelper.js",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/advanceChatHelper#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jrdbs511yw",
+      "Integrity": "bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\advanceChatHelper.js"
+    },
+    {
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\basicChat.js",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/basicChat#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27iasdujdi",
+      "Integrity": "YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\basicChat.js"
+    },
+    {
+      "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\chat.js",
+      "SourceId": "SignalRApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\",
+      "BasePath": "_content/SignalRApp",
+      "RelativePath": "js/chat#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j3onhw31w9",
+      "Integrity": "QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\chat.js"
     },
     {
       "Identity": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\deathlyHallows.js",
@@ -7423,8 +7549,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3jyucjvbhs",
-      "Integrity": "sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI=",
+      "Fingerprint": "veiggevbwz",
+      "Integrity": "yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\usersCount.js"
@@ -22198,13 +22324,13 @@
       ]
     },
     {
-      "Route": "js/Chat.evs2j6nnb5.js",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\5azpgvxpnq-evs2j6nnb5.gz",
+      "Route": "js/advanceChat.2gqz3lnjqa.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\rgexisj8cw-2gqz3lnjqa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002132196162"
+          "Quality": "0.000692041522"
         }
       ],
       "ResponseHeaders": [
@@ -22214,15 +22340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "468"
+          "Value": "1444"
         },
         {
           "Name": "ETag",
-          "Value": "\"LAF7NKUqYejTEWkAol6X5HeOFfHit3Q0AMqns+RCkk8=\""
+          "Value": "\"wggxsmKOZoy5LsHWowCp4DUmNP2iIpEPvtgJvPwWojw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 22:11:46 GMT"
+          "Value": "Fri, 04 Nov 2022 12:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22242,27 +22368,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94=\""
+          "Value": "W/\"ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "evs2j6nnb5"
+          "Value": "2gqz3lnjqa"
         },
         {
           "Name": "label",
-          "Value": "js/Chat.js"
+          "Value": "js/advanceChat.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94="
+          "Value": "sha256-ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg="
         }
       ]
     },
     {
-      "Route": "js/Chat.evs2j6nnb5.js",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\Chat.js",
+      "Route": "js/advanceChat.2gqz3lnjqa.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChat.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22271,7 +22397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1180"
+          "Value": "6207"
         },
         {
           "Name": "Content-Type",
@@ -22279,11 +22405,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94=\""
+          "Value": "\"ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 22:11:46 GMT"
+          "Value": "Fri, 04 Nov 2022 12:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22293,21 +22419,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "evs2j6nnb5"
+          "Value": "2gqz3lnjqa"
         },
         {
           "Name": "label",
-          "Value": "js/Chat.js"
+          "Value": "js/advanceChat.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94="
+          "Value": "sha256-ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg="
         }
       ]
     },
     {
-      "Route": "js/Chat.evs2j6nnb5.js.gz",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\5azpgvxpnq-evs2j6nnb5.gz",
+      "Route": "js/advanceChat.2gqz3lnjqa.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\rgexisj8cw-2gqz3lnjqa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22316,7 +22442,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "468"
+          "Value": "1444"
         },
         {
           "Name": "Content-Type",
@@ -22324,11 +22450,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LAF7NKUqYejTEWkAol6X5HeOFfHit3Q0AMqns+RCkk8=\""
+          "Value": "\"wggxsmKOZoy5LsHWowCp4DUmNP2iIpEPvtgJvPwWojw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 22:11:46 GMT"
+          "Value": "Fri, 04 Nov 2022 12:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22346,26 +22472,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "evs2j6nnb5"
+          "Value": "2gqz3lnjqa"
         },
         {
           "Name": "label",
-          "Value": "js/Chat.js.gz"
+          "Value": "js/advanceChat.js.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LAF7NKUqYejTEWkAol6X5HeOFfHit3Q0AMqns+RCkk8="
+          "Value": "sha256-wggxsmKOZoy5LsHWowCp4DUmNP2iIpEPvtgJvPwWojw="
         }
       ]
     },
     {
-      "Route": "js/Chat.js",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\5azpgvxpnq-evs2j6nnb5.gz",
+      "Route": "js/advanceChat.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\rgexisj8cw-2gqz3lnjqa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002132196162"
+          "Quality": "0.000692041522"
         }
       ],
       "ResponseHeaders": [
@@ -22375,15 +22501,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "468"
+          "Value": "1444"
         },
         {
           "Name": "ETag",
-          "Value": "\"LAF7NKUqYejTEWkAol6X5HeOFfHit3Q0AMqns+RCkk8=\""
+          "Value": "\"wggxsmKOZoy5LsHWowCp4DUmNP2iIpEPvtgJvPwWojw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 22:11:46 GMT"
+          "Value": "Fri, 04 Nov 2022 12:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22403,19 +22529,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94=\""
+          "Value": "W/\"ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94="
+          "Value": "sha256-ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg="
         }
       ]
     },
     {
-      "Route": "js/Chat.js",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\Chat.js",
+      "Route": "js/advanceChat.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChat.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22424,7 +22550,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1180"
+          "Value": "6207"
         },
         {
           "Name": "Content-Type",
@@ -22432,11 +22558,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94=\""
+          "Value": "\"ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 22:11:46 GMT"
+          "Value": "Fri, 04 Nov 2022 12:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22446,13 +22572,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VgZGD01VA3O7o6pfnORvh2rEzp3a0XaoXMgeg4cxU94="
+          "Value": "sha256-ovcg9O14niteVIh5fAv9nXGcsdFt1Cq/Dd/o3SF6Hyg="
         }
       ]
     },
     {
-      "Route": "js/Chat.js.gz",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\5azpgvxpnq-evs2j6nnb5.gz",
+      "Route": "js/advanceChat.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\rgexisj8cw-2gqz3lnjqa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22461,7 +22587,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "468"
+          "Value": "1444"
         },
         {
           "Name": "Content-Type",
@@ -22469,11 +22595,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LAF7NKUqYejTEWkAol6X5HeOFfHit3Q0AMqns+RCkk8=\""
+          "Value": "\"wggxsmKOZoy5LsHWowCp4DUmNP2iIpEPvtgJvPwWojw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 22:11:46 GMT"
+          "Value": "Fri, 04 Nov 2022 12:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22491,7 +22617,901 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LAF7NKUqYejTEWkAol6X5HeOFfHit3Q0AMqns+RCkk8="
+          "Value": "sha256-wggxsmKOZoy5LsHWowCp4DUmNP2iIpEPvtgJvPwWojw="
+        }
+      ]
+    },
+    {
+      "Route": "js/advanceChatHelper.jrdbs511yw.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\iuun5pvb8p-jrdbs511yw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000317965024"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3144"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g+6i3wzY7dbDSbccSds6FwHwPOu2dNWKEOIklgm1Smw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Nov 2022 12:34:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jrdbs511yw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/advanceChatHelper.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A="
+        }
+      ]
+    },
+    {
+      "Route": "js/advanceChatHelper.jrdbs511yw.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChatHelper.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Nov 2022 12:34:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jrdbs511yw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/advanceChatHelper.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A="
+        }
+      ]
+    },
+    {
+      "Route": "js/advanceChatHelper.jrdbs511yw.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\iuun5pvb8p-jrdbs511yw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g+6i3wzY7dbDSbccSds6FwHwPOu2dNWKEOIklgm1Smw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Nov 2022 12:34:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jrdbs511yw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/advanceChatHelper.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g+6i3wzY7dbDSbccSds6FwHwPOu2dNWKEOIklgm1Smw="
+        }
+      ]
+    },
+    {
+      "Route": "js/advanceChatHelper.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\iuun5pvb8p-jrdbs511yw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000317965024"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3144"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g+6i3wzY7dbDSbccSds6FwHwPOu2dNWKEOIklgm1Smw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Nov 2022 12:34:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A="
+        }
+      ]
+    },
+    {
+      "Route": "js/advanceChatHelper.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChatHelper.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Nov 2022 12:34:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bzpq2Bu1vcJcxBxEGZ8Y2MFg2oXPxs6Gq9YJHVozq/A="
+        }
+      ]
+    },
+    {
+      "Route": "js/advanceChatHelper.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\iuun5pvb8p-jrdbs511yw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g+6i3wzY7dbDSbccSds6FwHwPOu2dNWKEOIklgm1Smw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Nov 2022 12:34:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g+6i3wzY7dbDSbccSds6FwHwPOu2dNWKEOIklgm1Smw="
+        }
+      ]
+    },
+    {
+      "Route": "js/basicChat.27iasdujdi.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\3r0sa0sktu-27iasdujdi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002123142251"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "470"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b4nos0858y42Us5LYekr2oCvmn5YGY0qICmxFapka1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 15:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27iasdujdi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/basicChat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew="
+        }
+      ]
+    },
+    {
+      "Route": "js/basicChat.27iasdujdi.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\basicChat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 15:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27iasdujdi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/basicChat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew="
+        }
+      ]
+    },
+    {
+      "Route": "js/basicChat.27iasdujdi.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\3r0sa0sktu-27iasdujdi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b4nos0858y42Us5LYekr2oCvmn5YGY0qICmxFapka1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 15:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27iasdujdi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/basicChat.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b4nos0858y42Us5LYekr2oCvmn5YGY0qICmxFapka1c="
+        }
+      ]
+    },
+    {
+      "Route": "js/basicChat.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\3r0sa0sktu-27iasdujdi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002123142251"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "470"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b4nos0858y42Us5LYekr2oCvmn5YGY0qICmxFapka1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 15:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew="
+        }
+      ]
+    },
+    {
+      "Route": "js/basicChat.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\basicChat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 15:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YvXY81M0MaulpD8vkBEBk0twhTNZEbClkyEitUWO2ew="
+        }
+      ]
+    },
+    {
+      "Route": "js/basicChat.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\3r0sa0sktu-27iasdujdi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b4nos0858y42Us5LYekr2oCvmn5YGY0qICmxFapka1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 15:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b4nos0858y42Us5LYekr2oCvmn5YGY0qICmxFapka1c="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.j3onhw31w9.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\grm4s3zwnb-j3onhw31w9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000664893617"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1503"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsxRbA71XRF75b5KXVb6hXg8ulNJFq/LBU9iKaRC+PQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j3onhw31w9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.j3onhw31w9.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j3onhw31w9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.j3onhw31w9.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\grm4s3zwnb-j3onhw31w9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsxRbA71XRF75b5KXVb6hXg8ulNJFq/LBU9iKaRC+PQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j3onhw31w9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chat.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsxRbA71XRF75b5KXVb6hXg8ulNJFq/LBU9iKaRC+PQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\grm4s3zwnb-j3onhw31w9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000664893617"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1503"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsxRbA71XRF75b5KXVb6hXg8ulNJFq/LBU9iKaRC+PQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QYVHg3PxxObt/cl5ddNx1gpQ94o/QhhV1IeXi5eYVXs="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\grm4s3zwnb-j3onhw31w9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsxRbA71XRF75b5KXVb6hXg8ulNJFq/LBU9iKaRC+PQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 22:44:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsxRbA71XRF75b5KXVb6hXg8ulNJFq/LBU9iKaRC+PQ="
         }
       ]
     },
@@ -25215,13 +26235,13 @@
       ]
     },
     {
-      "Route": "js/usersCount.3jyucjvbhs.js",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-3jyucjvbhs.gz",
+      "Route": "js/usersCount.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-veiggevbwz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002242152466"
+          "Quality": "0.002227171492"
         }
       ],
       "ResponseHeaders": [
@@ -25231,19 +26251,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "448"
         },
         {
           "Name": "ETag",
-          "Value": "\"WLVif1yxl5fvF6dLtnkDinUm/jlz1dHrQT8ke3bXPLk=\""
+          "Value": "\"bBbW3FLrq53zZVH723tXjOMzgbNQutSoLumd4tyfnjc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 22:47:20 GMT"
+          "Value": "Thu, 13 Feb 2025 16:01:00 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -25259,26 +26279,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI=\""
+          "Value": "W/\"yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3jyucjvbhs"
-        },
-        {
-          "Name": "label",
-          "Value": "js/usersCount.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI="
+          "Value": "sha256-yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ="
         }
       ]
     },
     {
-      "Route": "js/usersCount.3jyucjvbhs.js",
+      "Route": "js/usersCount.js",
       "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\usersCount.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -25288,7 +26300,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "964"
+          "Value": "970"
         },
         {
           "Name": "Content-Type",
@@ -25296,11 +26308,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI=\""
+          "Value": "\"yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 22:47:20 GMT"
+          "Value": "Thu, 13 Feb 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/usersCount.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-veiggevbwz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBbW3FLrq53zZVH723tXjOMzgbNQutSoLumd4tyfnjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBbW3FLrq53zZVH723tXjOMzgbNQutSoLumd4tyfnjc="
+        }
+      ]
+    },
+    {
+      "Route": "js/usersCount.veiggevbwz.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-veiggevbwz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002227171492"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBbW3FLrq53zZVH723tXjOMzgbNQutSoLumd4tyfnjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "veiggevbwz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/usersCount.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/usersCount.veiggevbwz.js",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\usersCount.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 16:01:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25310,7 +26467,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3jyucjvbhs"
+          "Value": "veiggevbwz"
         },
         {
           "Name": "label",
@@ -25318,13 +26475,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI="
+          "Value": "sha256-yYap8bALjO+rLB5vrH9v4hoPfCotqezKWmJ4dekOkmQ="
         }
       ]
     },
     {
-      "Route": "js/usersCount.3jyucjvbhs.js.gz",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-3jyucjvbhs.gz",
+      "Route": "js/usersCount.veiggevbwz.js.gz",
+      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-veiggevbwz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25333,7 +26490,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "448"
         },
         {
           "Name": "Content-Type",
@@ -25341,11 +26498,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WLVif1yxl5fvF6dLtnkDinUm/jlz1dHrQT8ke3bXPLk=\""
+          "Value": "\"bBbW3FLrq53zZVH723tXjOMzgbNQutSoLumd4tyfnjc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 22:47:20 GMT"
+          "Value": "Thu, 13 Feb 2025 16:01:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25363,7 +26520,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3jyucjvbhs"
+          "Value": "veiggevbwz"
         },
         {
           "Name": "label",
@@ -25371,144 +26528,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WLVif1yxl5fvF6dLtnkDinUm/jlz1dHrQT8ke3bXPLk="
-        }
-      ]
-    },
-    {
-      "Route": "js/usersCount.js",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-3jyucjvbhs.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002242152466"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "445"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WLVif1yxl5fvF6dLtnkDinUm/jlz1dHrQT8ke3bXPLk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 22:47:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI="
-        }
-      ]
-    },
-    {
-      "Route": "js/usersCount.js",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\usersCount.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "964"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 22:47:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-sY2rhSqOZjb75LgxYeFL4cB6UkAqLk29JeXitTZFODI="
-        }
-      ]
-    },
-    {
-      "Route": "js/usersCount.js.gz",
-      "AssetFile": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\obj\\Debug\\net9.0\\compressed\\g5att5phvz-3jyucjvbhs.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "445"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WLVif1yxl5fvF6dLtnkDinUm/jlz1dHrQT8ke3bXPLk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 22:47:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WLVif1yxl5fvF6dLtnkDinUm/jlz1dHrQT8ke3bXPLk="
+          "Value": "sha256-bBbW3FLrq53zZVH723tXjOMzgbNQutSoLumd4tyfnjc="
         }
       ]
     },

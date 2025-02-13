@@ -421,11 +421,9 @@ E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\refint\SignalRA
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\SignalRApp.pdb
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\SignalRApp.genruntimeconfig.cache
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\ref\SignalRApp.dll
-E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\g5att5phvz-3jyucjvbhs.gz
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\73p8hh405i-t4vqe9u44m.gz
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\2po16j510m-mk6ho10fa6.gz
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\r1atpsfhgc-95qvltzudy.gz
-E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\5azpgvxpnq-evs2j6nnb5.gz
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\bin\Debug\net9.0\Microsoft.Build.dll
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\bin\Debug\net9.0\Microsoft.Build.Framework.dll
@@ -544,3 +542,8 @@ E:\Back-End .NET\Projects\SignalRApp\SignalRApp\bin\Debug\net9.0\tr\Microsoft.Co
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\330csmprk5-69goo5ydyo.gz
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\3r0sa0sktu-27iasdujdi.gz
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\g5att5phvz-veiggevbwz.gz
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\grm4s3zwnb-j3onhw31w9.gz
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\rgexisj8cw-2gqz3lnjqa.gz
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\obj\Debug\net9.0\compressed\iuun5pvb8p-jrdbs511yw.gz

@@ -24,6 +24,7 @@ E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\di
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js.map
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\basicChat.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\signalr.min.js.map
@@ -33,7 +34,6 @@ E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\di
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\stream.js
-E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\Chat.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\signalr.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js.map
@@ -97,6 +97,7 @@ E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\di
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\dist\jquery.min.map
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\chat.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js.map
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
@@ -112,6 +113,7 @@ E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\di
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\dist\jquery.slim.min.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\subject.js.map
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\index.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\advanceChatHelper.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js.map
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\signalr.min.js
@@ -155,6 +157,7 @@ E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\di
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js.map
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\advanceChat.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\stream.js
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\utils.js
@@ -211,7 +214,10 @@ E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\di
 E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\js\Chat.js
+wwwroot\js\advanceChat.js
+wwwroot\js\advanceChatHelper.js
+wwwroot\js\basicChat.js
+wwwroot\js\chat.js
 wwwroot\js\deathlyHallows.js
 wwwroot\js\houseGroup.js
 wwwroot\js\notification.js

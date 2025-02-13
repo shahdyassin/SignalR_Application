@@ -13,8 +13,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\Chat.js",
-      "PackagePath": "staticwebassets\\js\\Chat.js"
+      "Id": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChat.js",
+      "PackagePath": "staticwebassets\\js\\advanceChat.js"
+    },
+    {
+      "Id": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\advanceChatHelper.js",
+      "PackagePath": "staticwebassets\\js\\advanceChatHelper.js"
+    },
+    {
+      "Id": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\basicChat.js",
+      "PackagePath": "staticwebassets\\js\\basicChat.js"
+    },
+    {
+      "Id": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
     },
     {
       "Id": "E:\\Back-End .NET\\Projects\\SignalRApp\\SignalRApp\\wwwroot\\js\\deathlyHallows.js",

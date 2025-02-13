@@ -1,4 +1,4 @@
-﻿const { error } = require("jquery");
+﻿
 
 //Create Connection
 var connectionUserCount = new signalR.HubConnectionBuilder()

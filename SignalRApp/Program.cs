@@ -52,6 +52,7 @@ namespace SignalRApp
             app.MapHub<DeathlyHallowsHub>("/hubs/deathlyhallows");
             app.MapHub<HouseGroupHub>("/hubs/houseGroup");
             app.MapHub<NotificationHub>("/hubs/notification");
+            app.MapHub<BasicChatHub>("/hubs/basicChat");
             app.MapHub<ChatHub>("/hubs/chat");
             app.MapHub<OrderHub>("/hubs/order");
 
