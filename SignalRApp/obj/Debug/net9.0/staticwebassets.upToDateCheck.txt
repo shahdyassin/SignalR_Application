@@ -1,0 +1,489 @@
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\utils.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\itransport.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\accesstokenhttpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\site.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\accesstokenhttpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\dist\jquery.slim.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\houseGroup.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\dist\jquery.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\order.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\signalr.min.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\stream.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\Chat.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\signalr.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\signalr.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\readme.md
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\deathlyHallows.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\errors.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\favicon.ico
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\istatefulreconnectoptions.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\css\site.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\index.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\messagebuffer.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\subject.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\dist\jquery.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\utils.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\subject.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\usersCount.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\subject.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\dist\jquery.min.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\index.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\dist\jquery.slim.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\subject.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\index.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\signalr.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\package.json
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\messagebuffer.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\errors.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\errors.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\src\third-party-notices.txt
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\itransport.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\utils.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\loggers.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\js\notification.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\stream.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\utils.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\errors.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\istatefulreconnectoptions.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\headernames.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery-validation\LICENSE.md
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\stream.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\jquery\LICENSE.txt
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\stream.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\headernames.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\index.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js.map
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\esm\loggers.js
+E:\Back-End .NET\Projects\SignalRApp\SignalRApp\wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js.map
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\Chat.js
+wwwroot\js\deathlyHallows.js
+wwwroot\js\houseGroup.js
+wwwroot\js\notification.js
+wwwroot\js\order.js
+wwwroot\js\signalr.js
+wwwroot\js\signalr.js.map
+wwwroot\js\signalr.min.js
+wwwroot\js\signalr.min.js.map
+wwwroot\js\site.js
+wwwroot\js\usersCount.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js
+wwwroot\lib\microsoft\signalr\dist\cjs\abortcontroller.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\accesstokenhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\accesstokenhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js
+wwwroot\lib\microsoft\signalr\dist\cjs\browser-index.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\defaulthttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js
+wwwroot\lib\microsoft\signalr\dist\cjs\defaultreconnectpolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\errors.js
+wwwroot\lib\microsoft\signalr\dist\cjs\errors.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\fetchhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\handshakeprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js
+wwwroot\lib\microsoft\signalr\dist\cjs\headernames.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\httpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\httpconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js
+wwwroot\lib\microsoft\signalr\dist\cjs\hubconnectionbuilder.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js
+wwwroot\lib\microsoft\signalr\dist\cjs\iconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ihttpconnectionoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ihubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js
+wwwroot\lib\microsoft\signalr\dist\cjs\ilogger.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\index.js
+wwwroot\lib\microsoft\signalr\dist\cjs\index.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js
+wwwroot\lib\microsoft\signalr\dist\cjs\iretrypolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\istatefulreconnectoptions.js
+wwwroot\lib\microsoft\signalr\dist\cjs\istatefulreconnectoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\itransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\cjs\jsonhubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js
+wwwroot\lib\microsoft\signalr\dist\cjs\loggers.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\longpollingtransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\messagebuffer.js
+wwwroot\lib\microsoft\signalr\dist\cjs\messagebuffer.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js
+wwwroot\lib\microsoft\signalr\dist\cjs\polyfills.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\serversenteventstransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\stream.js
+wwwroot\lib\microsoft\signalr\dist\cjs\stream.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\subject.js
+wwwroot\lib\microsoft\signalr\dist\cjs\subject.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js
+wwwroot\lib\microsoft\signalr\dist\cjs\textmessageformat.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\utils.js
+wwwroot\lib\microsoft\signalr\dist\cjs\utils.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js
+wwwroot\lib\microsoft\signalr\dist\cjs\websockettransport.js.map
+wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\cjs\xhrhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js
+wwwroot\lib\microsoft\signalr\dist\esm\abortcontroller.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\accesstokenhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js
+wwwroot\lib\microsoft\signalr\dist\esm\browser-index.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\defaulthttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js
+wwwroot\lib\microsoft\signalr\dist\esm\defaultreconnectpolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\errors.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\errors.js
+wwwroot\lib\microsoft\signalr\dist\esm\errors.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\fetchhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\handshakeprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.js
+wwwroot\lib\microsoft\signalr\dist\esm\headernames.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\httpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\httpconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js
+wwwroot\lib\microsoft\signalr\dist\esm\hubconnectionbuilder.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js
+wwwroot\lib\microsoft\signalr\dist\esm\iconnection.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js
+wwwroot\lib\microsoft\signalr\dist\esm\ihttpconnectionoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\ihubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js
+wwwroot\lib\microsoft\signalr\dist\esm\ilogger.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\index.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\index.js
+wwwroot\lib\microsoft\signalr\dist\esm\index.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js
+wwwroot\lib\microsoft\signalr\dist\esm\iretrypolicy.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.js
+wwwroot\lib\microsoft\signalr\dist\esm\istatefulreconnectoptions.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\itransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js
+wwwroot\lib\microsoft\signalr\dist\esm\jsonhubprotocol.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.js
+wwwroot\lib\microsoft\signalr\dist\esm\loggers.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\longpollingtransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.js
+wwwroot\lib\microsoft\signalr\dist\esm\messagebuffer.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js
+wwwroot\lib\microsoft\signalr\dist\esm\polyfills.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\serversenteventstransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\stream.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\stream.js
+wwwroot\lib\microsoft\signalr\dist\esm\stream.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\subject.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\subject.js
+wwwroot\lib\microsoft\signalr\dist\esm\subject.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js
+wwwroot\lib\microsoft\signalr\dist\esm\textmessageformat.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\utils.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\utils.js
+wwwroot\lib\microsoft\signalr\dist\esm\utils.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js
+wwwroot\lib\microsoft\signalr\dist\esm\websockettransport.js.map
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.d.ts
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js
+wwwroot\lib\microsoft\signalr\dist\esm\xhrhttpclient.js.map
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.js.map
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js
+wwwroot\lib\microsoft\signalr\dist\webworker\signalr.min.js.map
+wwwroot\lib\microsoft\signalr\package.json
+wwwroot\lib\microsoft\signalr\readme.md
+wwwroot\lib\microsoft\signalr\src\abortcontroller.ts
+wwwroot\lib\microsoft\signalr\src\accesstokenhttpclient.ts
+wwwroot\lib\microsoft\signalr\src\browser-index.ts
+wwwroot\lib\microsoft\signalr\src\defaulthttpclient.ts
+wwwroot\lib\microsoft\signalr\src\defaultreconnectpolicy.ts
+wwwroot\lib\microsoft\signalr\src\errors.ts
+wwwroot\lib\microsoft\signalr\src\fetchhttpclient.ts
+wwwroot\lib\microsoft\signalr\src\handshakeprotocol.ts
+wwwroot\lib\microsoft\signalr\src\headernames.ts
+wwwroot\lib\microsoft\signalr\src\httpclient.ts
+wwwroot\lib\microsoft\signalr\src\httpconnection.ts
+wwwroot\lib\microsoft\signalr\src\hubconnection.ts
+wwwroot\lib\microsoft\signalr\src\hubconnectionbuilder.ts
+wwwroot\lib\microsoft\signalr\src\iconnection.ts
+wwwroot\lib\microsoft\signalr\src\ihttpconnectionoptions.ts
+wwwroot\lib\microsoft\signalr\src\ihubprotocol.ts
+wwwroot\lib\microsoft\signalr\src\ilogger.ts
+wwwroot\lib\microsoft\signalr\src\index.ts
+wwwroot\lib\microsoft\signalr\src\iretrypolicy.ts
+wwwroot\lib\microsoft\signalr\src\istatefulreconnectoptions.ts
+wwwroot\lib\microsoft\signalr\src\itransport.ts
+wwwroot\lib\microsoft\signalr\src\jsonhubprotocol.ts
+wwwroot\lib\microsoft\signalr\src\loggers.ts
+wwwroot\lib\microsoft\signalr\src\longpollingtransport.ts
+wwwroot\lib\microsoft\signalr\src\messagebuffer.ts
+wwwroot\lib\microsoft\signalr\src\polyfills.ts
+wwwroot\lib\microsoft\signalr\src\serversenteventstransport.ts
+wwwroot\lib\microsoft\signalr\src\stream.ts
+wwwroot\lib\microsoft\signalr\src\subject.ts
+wwwroot\lib\microsoft\signalr\src\textmessageformat.ts
+wwwroot\lib\microsoft\signalr\src\third-party-notices.txt
+wwwroot\lib\microsoft\signalr\src\utils.ts
+wwwroot\lib\microsoft\signalr\src\websockettransport.ts
+wwwroot\lib\microsoft\signalr\src\xhrhttpclient.ts

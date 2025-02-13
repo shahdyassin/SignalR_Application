@@ -32,8 +32,32 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Back-End .NET/Projects/SignalRApp/SignalRApp/Views/Home/BasicChat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYXNpY0NoYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-End .NET/Projects/SignalRApp/SignalRApp/Views/Home/DeathlyHallowRace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWF0aGx5SGFsbG93UmFjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-End .NET/Projects/SignalRApp/SignalRApp/Views/Home/HarryPotterHouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYXJyeVBvdHRlckhvdXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Back-End .NET/Projects/SignalRApp/SignalRApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-End .NET/Projects/SignalRApp/SignalRApp/Views/Home/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-End .NET/Projects/SignalRApp/SignalRApp/Views/Home/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Back-End .NET/Projects/SignalRApp/SignalRApp/Views/Home/OrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmRlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Back-End .NET/Projects/SignalRApp/SignalRApp/Views/Home/Privacy.cshtml]
