@@ -108,20 +108,6 @@ namespace SignalRApp.Hubs
 
 
 
-        //public async Task SendMessageToAll(string user , string message)
-        //{
-        //    await Clients.All.SendAsync("MessageRecieve" , user,message);
-        //}
-        //[Authorize]
-        //public async Task SendMessageToReciever(string sender ,string reciever , string message)
-        //{
-        //    var userId = _context.Users.FirstOrDefault(u => u.Email.ToLower() == reciever.ToLower()).Id;
-
-        //    if(!string.IsNullOrEmpty(userId) )
-        //    {
-        //        await Clients.User(userId).SendAsync("MessageRecieve",sender, message);
-        //    }
-
-        //}
+    
     }
 }
